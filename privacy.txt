@@ -1,13 +1,13 @@
 Kuran Analiz Mealler Programı Gizlilik Politikası
 
-BU programın geliştiricisi olarak kişisel gizlilik haklarınıza saygı duyuyoruz ve uygulamamızda geçirdiğiniz süre zarfında bunu sağlamak için çaba gösteriyoruz.
+BU uygulamanın geliştiricisi olarak kişisel gizlilik haklarınıza saygı duyuyoruz ve uygulamamızda geçirdiğiniz süre zarfında bunu sağlamak için çaba gösteriyoruz.
 
-Bu programda hiç bir kişisel veri  sunucularımıza yollanmamaktadır.uygulamanın kaydettiği verilere kullanıcı izni olmaksızın erişme imkanımız yoktur.
+Bu uygulamada hiç bir kişisel veri  sunucularımıza yollanmamaktadır. Uygulamanın kaydettiği verilere hiç bir şekilde kullanıcı izni olmaksızın erişme imkanımız yoktur.
 
+Uygulamanın kaydettiği veriler, kullanıcının  kullandığı cihazın içindeki uygulamaya bağlı veritabanında saklanmaktadır. Veri yedekleme,Ayraçları excell ve worde kaydetme gibi fonksiyonlar ile bu veriler, kullanıcı izniyle dosyaya aktarabilmektedir. Bu verileri korumak tamamen kullanıcının sorumluluğundadır.
 
-Programın kaydettiği veriler, kişinin kullandığı cihazın içindeki programa bağlı veritabanında saklanmaktadır. Veri yedekleme,Ayraçları excell ve worde kaydetme gibi fonksiyonlar ile bu veriler kullanıcı izniyle dosyaya aktarabilmektedir. Bu verileri korumak tamamen kullanıcının sorumluluğundadır.
-
-Programımız Google Hizmetleri desteği çalışmaktadır. Lütfen onların gizlilik sözleşmelerini okuyunuz.
+Uygulamamız Google servisleri desteğiyle çalışmaktadır. Lütfen onların gizlilik sözleşmelerini okuyunuz.
 
 Her türlü soru ve öneriniz için bize yazabilirsiniz. 
+
 analiz.kuran@gmail.com

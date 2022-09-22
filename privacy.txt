@@ -5,7 +5,7 @@ BU programın geliştiricisi olarak kişisel gizlilik haklarınıza saygı duyuy
 Bu programda hiç bir kişisel veri saklanmamakta, kaydedilen hiç bir veri sunucularımıza yollanmamaktadır.
 
 
-Programın kaydettiği veriler, kişinin kullandığı cihazın içindeki programa bağlı veritabanında saklanmaktadır.Veri yedekleme, excell ve worde kaydetme gibi fonksiyonlar ile bu veriler kullanıcı izniyle dosyaya aktarabilmektedir. Bu verileri korumak tamamen kullanıcının sorumluluğundadır.
+Programın kaydettiği veriler, kişinin kullandığı cihazın içindeki programa bağlı veritabanında saklanmaktadır. Veri yedekleme,Ayraçları excell ve worde kaydetme gibi fonksiyonlar ile bu veriler kullanıcı izniyle dosyaya aktarabilmektedir. Bu verileri korumak tamamen kullanıcının sorumluluğundadır.
 
 Programımız Google Hizmetleri desteği çalışmaktadır. Lütfen onların gizlilik sözleşmelerini okuyunuz.
 

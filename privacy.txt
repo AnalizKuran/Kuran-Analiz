@@ -6,7 +6,7 @@ Bu uygulamada hiç bir kişisel veri  sunucularımıza yollanmamaktadır. Uygula
 
 Uygulamanın kaydettiği veriler, kullanıcının  kullandığı cihazın içindeki uygulamaya bağlı veritabanında saklanmaktadır. Veri yedekleme,Ayraçları excell ve worde kaydetme gibi fonksiyonlar ile bu veriler, kullanıcı izniyle dosyaya aktarabilmektedir. Bu verileri korumak tamamen kullanıcının sorumluluğundadır.
 
-Uygulamamız Google servisleri desteğiyle çalışmaktadır. Lütfen onların gizlilik sözleşmelerini okuyunuz.
+Uygulamamız Google servisleri desteğiyle çalışmaktadır. Lütfen onların gizlilik sözleşmelerini okuyunuz. Örneğin uygulama içindeki kıble bulucu Google'ın kıble bulucu sitesine yönlenmekte ve Google sitesi, kıbleyi bulabilmek için konumuzu işleyebilir.
 
 Her türlü soru ve öneriniz için bize yazabilirsiniz. 
 
